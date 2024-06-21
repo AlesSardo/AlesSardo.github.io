@@ -1,0 +1,123 @@
+/*--- Opere in Prosa ---*/
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,600&display=swap&subset=latin-ext');
+
+body {
+  overflow-x: hidden;
+  font-family: 'Quicksand', sans-serif;
+  color: #505962;
+}
+
+/*--- navbar ---*/
+
+.navbar {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: .1rem
+  height: 45px;
+  background-color: #083a5e;
+}
+
+.navbar-nav li {
+  padding-right: .7rem;
+}
+
+nav a.active {
+  color: white;
+}
+
+/*--- breadcrumbs ---*/
+#section_fonti {
+  padding-top: 60px
+}
+
+.breadcrumb {
+  flex-wrap: wrap;
+  margin-bottom: 1px;
+  margin-top: 1px;
+  border-radius: 15px;
+  list-style: none;
+  background-color: #e1c5ba;
+}
+
+/* Display list items side by side */
+ol.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ol.breadcrumb li+li:before {
+  color: black;
+  content: "/\00a0";
+}
+
+/*---aside---*/
+aside {
+  display: block;
+}
+
+.col-md-3 {
+  padding-top: 75px
+}
+
+.p-3 {
+  margin-top: 3rem;
+}
+
+/*--- post ---*/
+
+.blog-post{
+  padding-top: 2.5rem;
+}
+
+.card-primary {
+  margin-top: 25px;
+}
+
+.card-header {
+  padding: .75rem 1.25rem;
+  padding-top: 1.5rem;
+}
+
+.th-item {
+  color: #C70039;
+}
+.th-item:hover {
+  color: #581845;
+  text-decoration: underline;
+}
+
+/*---footer---*/
+footer {
+  background-color: #421929;
+  font-size: 13px;
+  color: #f1cddb;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: #e992b4;
+}
+
+/*---links---*/
+
+a:hover {
+  color: #900C3F;
+  text-decoration: underline;
+}
+
+a {
+  color: #FF5733;
+  text-decoration: none;
+}
+
+h2 {
+  padding-bottom: 28px;
+}
+
+/* Show the dropdown menu on hover */
+.nav-item:hover .dropdown-menu {display: block;}
