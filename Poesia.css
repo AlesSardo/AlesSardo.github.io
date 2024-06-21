@@ -1,0 +1,31 @@
+author { display: block; font-style: italic; }
+
+front { display: block;
+	background: e #6bc984 ;
+	width: 640px;
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px; }
+
+body { display: block;
+	background: e #CCFFCC;
+	width: 640px;
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px; }
+encodingDesc, sourceDesc, respStmt, publicationStmt, availability { display: block; margin-top: 1em; }
+head { display: block; font-family: arial; margin-bottom: 1em; font-weight:bold }
+l { display:block; }
+lg { display: block; margin-bottom: 1em; }
+addrline, publicationStmt publisher, publicationStmt date { display: block; }
+sourceDesc title { font-style: italic; }
+teiHeader { display: block;
+	background: #FFFFCC;
+	width: 640px;
+	border-style: solid;
+	border-width: 1px;
+	border-bottom-width: 0px;
+	padding: 5px;
+	font-size: 75%;
+	font-family: verdana; }
+titleStmt title { display: block; font-weight :bold; }

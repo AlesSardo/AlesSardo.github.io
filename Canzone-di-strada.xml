@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="Poesia.css" type="text/css"?>
+<?oxygen RNGSchema="../schemas/teilite.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/2.0" xml:id="pavese_Canzone_di_strada">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lavorare stanca</title>
+				<author>Cesare Pavese</author>
+				<respStmt>
+					<resp>Creation of machine-readable text by</resp>
+					<name>Alessandro Sardone</name>
+				</respStmt>
+				<respStmt>
+					<resp>Header creation by</resp>
+					<name>Alessandro Sardone</name>
+				</respStmt>
+				<respStmt>
+					<resp>editor</resp>
+					<name>Cesare Pavese</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Online Text Archive</publisher>
+				<pubPlace>
+					<address>
+						<addrLine>Alma Mater Studiorum, Università di Bologna</addrLine>
+						<addrLine>Bologna, Bo</addrLine>
+					</address>
+				</pubPlace>
+				<date when="2023-05-23">23/05/2023</date>
+				<availability>
+					<p>This text is freely available provided the text is distributed with the
+						header information provided.</p>
+				</availability>
+			</publicationStmt>
+			<extent>7 Kb in UTF-8</extent>
+			</fileDesc>
+			<sourceDesc>
+				<bibl>https://fondazionecesarepavese.it/cesare-pavese-vita-opere/</bibl>
+				<sourceDesc> <bibl>Pavese, Cesare. Lavorare stanca / Cesare Pavese  ; a cura di Alberto Carocci - Firenze : Edizioni di Solaria (stamperia Fratelli Parenti), 1936 (gennaio 14)</bibl> <sourceDesc> <sourceDesc> <bibl> <title>Lavorare stanca</title> <author>Pavese, Cesare</author> <editor id="ed" role="editor">Alberto, Carocci</editor> <publisher>Edizioni di Solaria</publisher> <pubPlace>Firenze</pubPlace> <date>1936</date> </bibl> </sourceDesc>
+			</sourceDesc>
+			<encodingDesc> 
+				<projectDesc> <p>Testo digitalizzato e codificato nell'ambito del progetto "Cesare Pavese" con l'obbiettivo di creare una bibliografia inedita deidcata all'autore piomentese</p></projectDesc> 
+			</encodingDesc> 
+			<encodingDesc>  
+				<samplingDecl>Prima poesia estratta dalla prima sezione del testo con poesia in apertura all'opera</samplingDecl> 
+			</encodingDesc> 
+			<profileDesc>	
+				<creation><date value="1936:01">Gennaio 1936</date></creation>	
+				<creation><name type="luogo">Firenze, Italia</name></creation></profileDesc>
+				<textClass> Pavese sin da giovane sente la necessità di mostrarci il suo mondo ponendo il suo occhio ermetico sul paesaggio che lo ha cresciuto. Le langhe e la sua visione ermetica della vita che lo circondano trovano modo di dare sfogo a temi che gli stanno molto a cuore: la solitudine, il mito, la paura, l'infanzia e l'origine. Tutto questo viene declinato e riassunto secondo un credo fondamentale dell'autore: l'incomunicabilità dell'io.</textClass>
+				<textClass><keywords>vergogna, tempo, gioia, notte, ubriaco</keywords></textClass>
+			</sourceDesc>
+		</sourceDesc>	
+	</teiHeader>
+	<front>
+		<div type="introduzione">
+			<head>Introduzione</head>
+			<p><q who="Io ermetico"></q></p>
+			<lg n="1">
+			
+					<l n="1">C'è un giardino chiaro, fra mura basse,</l>
+					<l n="2"> di erba secca e di luce, che cuoce adagio</l>
+					<l n="3">la sua terra. E una luce che sa di mare.</l>
+					<l n="4">Tu respiri quell'erba. Tocchi i capelli</l>
+					<l n="5">e ne scuoti il ricordo.</l>
+					<l n="6"> Ho veduto cadere</l>
+					<l n="7"> molti frutti, dolci, su un'erba che so,</l>
+					<l n="8">con un tonfo. Cosi trasalisci tu pure</l>
+					<l n="9">al sussulto del sangue. Tu muovi il capo </l>
+					<l n="10">come intorno accadesse un prodigio d'aria</l>
+					<l n="11">e il prodigio sei tu. C'è un sapore uguale</l>
+					<l n="12">nei tuoi occhi e nel caldo ricordo.</l>
+		</lg>
+	</div>
+	</front>
+	<text>
+		<body>
+			<div type="Poesia">
+				<head>Canzone di strada</head>
+				<p><q who="Io ermetico"></q></p>
+				<lg n="1">
+					<l n="1">Perché vergogna? Quando uno ha pagato il suo tempo,</l>
+					<l n="2">se lo lasciano uscire, è perché è come tutti</l>
+					<l n="3">e ce n’è della gente per strada, che è stata in prigione.</l>
+					<l n="4">Dal mattino alla sera giriamo sui corsi</l>
+					<l n="5">e che piova o che faccia un bel sole, va sempre per noi.</l>
+					<l n="6">È una gioia incontrare sui corsi la gente che parla</l>
+					<l n="7">e parlare da soli, pigliando ragazze a spintoni.</l>
+					<l n="8">È una gioia fischiar nei portoni aspettando ragazze</l>
+					<l n="9">e abbracciarle per strada e portarle al cinema</l>
+					<l n="10">e fumar di nascosto, appoggiati alle belle ginocchia.</l>
+					<l n="11">È una gioia parlare con loro palpando e ridendo,</l>
+					<l n="12">e di notte nel letto, sentendo buttarsi sul collo</l>
+					<l n="13">le due braccia che attirano in basso, pensare al mattino</l>
+					<l n="14">che si tornerà a uscir di prigione nel fresco del sole.</l>
+					<l n="15">Dal mattino alla sera girare ubriachi</l>
+					<l n="16">e guardare ridendo i passanti che vanno</l>
+					<l n="17">e che godono tutti – anche i brutti – a sentirsi per strada.</l>
+					<l n="18">Dal mattino alla sera cantare ubriach</l>
+					<l n="19">e incontrare ubriachi e attaccare discorsi</l>
+					<l n="20">che ci durino a lungo e ci mettano sete.</l>
+					<l n="21">Tutti questi individui che vanno parlando tra sé,</l>
+					<l n="22">li vogliamo alla notte con noi, chiusi in fondo alla tampa,</l>
+					<l n="23">e seguire con loro la nostra chitarra</l>
+					<l n="24">che saltella ubriaca e non sta piú nel chiuso</l>
+					<l n="25">ma spalanca le porte a echeggiare nell’aria –</l>
+					<l n="26">fuori piòvano l’acqua o le stelle. Non conta se i corsi</l>
+					<l n="27">a quest’ora non hanno piú belle ragazze a passeggio:</l>
+					<l n="28">troveremo ben noi l’ubriaco che ride da solo</l>
+					<l n="29">perché è uscito anche lui di prigione stanotte,</l>
+					<l n="30">e con lui, strepitando e cantando, faremo il mattino.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
